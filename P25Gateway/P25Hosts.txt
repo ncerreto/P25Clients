@@ -729,3 +729,6 @@
 # 65101 KM4HJJ repeater Pompano, Florida
 65101	km4hjj-p25.dyndns-server.com	41000
 
+#314242 SVARC-Shenango Valley Amateur Radio Club K3WRB
+314242 143.244.215.76 41001
+
